@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://img.shields.io/static/v1?label=React&message=Frontend Developer&color=black"/></a>&nbsp
+<div align=center><img src="https://img.shields.io/static/v1?label=React&message=Frontend Developer&color=black"/></div>
 
 <!--
 **shpkc/shpkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
