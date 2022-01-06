@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
 <div align=center><img src="https://img.shields.io/static/v1?label=React&message=Frontend Developer&color=black"/></div>
 
 <!--
