@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
-### **<div align="center">I'm Park Si Hyung, Frontend Developer using React 🚀</div>**  
+### **<div>I'm Park Si Hyung, Frontend Developer using React 🚀</div>**  
   
 
 - 💻  I’m currently working on [여신티켓](https://apps.apple.com/kr/app/%EC%97%AC%EC%8B%A0%ED%8B%B0%EC%BC%93/id1228558605)  
@@ -8,26 +8,7 @@
 -  🎾  I’m currently learning Hyperledger and Kubernetes  
   
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -51,25 +32,3 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
