@@ -1,10 +1,75 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
-<h3>FRONTEND DEVELOPER 💻</h3>
-<h3>ALSO, TENNIS LOVER 🎾</h3>
-<br/>
+### **<div align="center">I'm Park Si Hyung, Frontend Developer using React 🚀</div>**  
+  
 
-<p>
-<a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="20" width="30" /></a>
-<a href="https://instagram.com/tevelop_tennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teveloper" height="20" width="30" /></a>
-</p>
+- 💻  I’m currently working on [여신티켓](https://apps.apple.com/kr/app/%EC%97%AC%EC%8B%A0%ED%8B%B0%EC%BC%93/id1228558605)  
+  
 
+-  🎾  I’m currently learning Hyperledger and Kubernetes  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/shpkc" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/시형-박-1a8805211" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tevelope_tennis" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to//" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
