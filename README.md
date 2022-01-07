@@ -4,9 +4,10 @@
 <h1>ALSO, TENNIS LOVER 🎾</h1>
 <br/>
 
-<a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="30" width="40" /></a>
 <a href="https://instagram.com/tevelop_tennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teveloper" height="30" width="40" /></a>
 </p>
+<a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="30" width="40" /></a>
+
 
 
 <!--
