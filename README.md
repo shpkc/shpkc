@@ -1,26 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
-<div align=center><img src="https://img.shields.io/static/v1?label=React&message=Frontend Developer&color=black"/></div>
-<h1>FRONTEND DEVELOPER 💻</h1>
-<h1>ALSO, TENNIS LOVER 🎾</h1>
+<h3>FRONTEND DEVELOPER 💻</h3>
+<h3>ALSO, TENNIS LOVER 🎾</h3>
 <br/>
 
+<p>
 <a href="https://instagram.com/tevelop_tennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teveloper" height="30" width="40" /></a>
-</p>
-<a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="30" width="40" /></a></p>
 
-
-
-<!--
-**shpkc/shpkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
