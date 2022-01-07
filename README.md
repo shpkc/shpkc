@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
 <div align=center><img src="https://img.shields.io/static/v1?label=React&message=Frontend Developer&color=black"/></div>
-
-# FRONTEND DEVELOPER 💻
-# ALSO, TENNIS LOVER 🎾
+<h1>FRONTEND DEVELOPER 💻</h1>
+<h1>ALSO, TENNIS LOVER 🎾</h1>
+<br/>
 
 <a href="https://linkedin.com/in/1a8805211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1a8805211" height="30" width="40" /></a>
 <a href="https://instagram.com/tevelop_tennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teveloper" height="30" width="40" /></a>
