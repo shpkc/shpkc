@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=PARK%20SI%20HYUNG&fontSize=80&fontColor=000000)
+<br/>
 ### **<div>I'm Park Si Hyung, Frontend Developer using React 🚀</div>**  
   
 
@@ -11,7 +12,7 @@
 <br/>
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/shpkc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
