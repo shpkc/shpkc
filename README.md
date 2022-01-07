@@ -31,4 +31,4 @@
 ## Github Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
