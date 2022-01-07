@@ -6,6 +6,13 @@
 -  🎾  Also, enthusiastic Tennis lover.
 
 <br/>
+<br/>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br/>
+<br/>
 
 <div>
 <a href="https://linkedin.com/in/시형-박-1a8805211" target="_blank">
@@ -18,8 +25,3 @@
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> -->
 </div>
-  
-<br/>  
-<div><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
