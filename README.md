@@ -6,7 +6,7 @@
 - 💻  I’m currently working on [여신티켓](https://apps.apple.com/kr/app/%EC%97%AC%EC%8B%A0%ED%8B%B0%EC%BC%93/id1228558605)  
   
 
--  🎾  I’m currently learning Hyperledger and Kubernetes  
+-  🎾  Also, enthusiastic Tennis lover.
   
 
 <br/>
