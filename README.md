@@ -5,9 +5,9 @@
 - 💻  I’m currently working on [여신티켓](https://apps.apple.com/kr/app/%EC%97%AC%EC%8B%A0%ED%8B%B0%EC%BC%93/id1228558605)  
 -  🎾  Also, a passionate Tennis lover.
 
-<br/>
+<!-- <br/>
 <br/>  
-<div><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=shpkc&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
