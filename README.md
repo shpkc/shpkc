@@ -8,7 +8,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpkc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div>
-<a href="https://linkedin.com/in/시형-박-1a8805211" target="_blank">
+<a href="https://www.linkedin.com/in/sihyung-park-1a8805211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/tevelope_tennis" target="_blank">
